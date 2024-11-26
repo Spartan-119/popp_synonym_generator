@@ -2,6 +2,8 @@
 
 ![output](output.gif)
 
+### [Click here to view the demo video.](https://drive.google.com/file/d/1uHKrl6QuPWyypLy7zgWIloNyf33dAf5j/view?usp=sharing)
+
 This is a simple **Synonym Generator** application developed for the **Popp** take-home task. The app uses **FastAPI** for the backend and **Streamlit** for the frontend to provide a seamless and interactive experience. 
 
 ## Project Overview
@@ -16,8 +18,8 @@ The Synonym Generator allows users to input a word and receive a list of its top
 
 ## Tech Stack
 
-- **Frontend**: [Streamlit](https://streamlit.io/) - A fast and simple tool for creating custom web apps.
-- **Backend**: [FastAPI](https://fastapi.tiangolo.com/) - A modern, fast web framework for building APIs with Python.
+- **Frontend**: [Streamlit](https://streamlit.io/) 
+- **Backend**: [FastAPI](https://fastapi.tiangolo.com/)
 - **API Service**: OpenAI's GPT-3.5 for generating synonyms based on user input.<br>
 
 
